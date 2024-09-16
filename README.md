@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-![Design preview for the Social links profile coding challenge](./preview.jpg)
+- This is a simple design for social links profile challenge by Frontend Mentor Website
 
 ## Live Demo
 
