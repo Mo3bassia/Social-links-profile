@@ -1,6 +1,10 @@
-# Frontend Mentor - Social links profile
+# Frontend Mentor - Social Links Profile
 
-- This is a simple design for social links profile challenge by Frontend Mentor Website
+![Design preview for the QR code component coding challenge](./design/destkop-design.jpg)
+
+## Challenge Link
+
+- [Challenge prview link](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
 ## Live Demo
 
